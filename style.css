@@ -1,0 +1,31 @@
+.r-br {border: 5px solid red;}
+.b-br {border: 3px solid blue;}
+.o-br {border: 5px solid orangered;}
+.p-br {border: 5px solid purple;}
+
+a.nav-link{
+    color: rgb(165, 130, 42);
+    font-weight: bold;
+}
+.carousel-item{
+
+ height: 90vh;
+}
+.carousel-item img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.card{
+    height: 400px;
+    overflow: hidden;
+}
+.card-img{
+     
+}
+.card-img img{
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+
+}
